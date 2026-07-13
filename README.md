@@ -1,16 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=220&section=header&text=Bernard%20Kimani&fontSize=48&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=200&section=header&text=Hi,%20I'm%20Bernard&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
-<br/>
-
 <div align="center">
-  <a href="https://github.com/Bernard-kimani">
-    <img src="https://github.com/Bernard-kimani.png" width="140" height="140" style="border-radius: 50%; border: 3px solid #10B981;" alt="Bernard Kimani Profile" />
-  </a>
-
   <h2>🚀 Full-Stack, Mobile & Autonomous AI Systems Engineer</h2>
-  <p><i>Building enterprise React dashboards, cross-platform mobile apps, custom browser automation tools, and multi-agent platforms.</i></p>
+  <p><i>Building enterprise React dashboards, cross-platform mobile apps, custom automation pipelines, and multi-agent platforms.</i></p>
 
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -41,6 +35,15 @@
   <img src="https://skillicons.dev/icons?i=react,flutter,android,apple&perline=8" />
 </p>
 
+#### 🤖 Automation & Workflow Engineering
+<p>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <br/>
+  <sub>Designing automated workflows and integrations with <b>n8n</b>, <b>Google Workspace / Apps Script</b>, and <b>MongoDB</b>-backed data pipelines.</sub>
+</p>
+
 #### 🕷️ Web Scraping & Extensions
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,py,express,selenium&perline=8" />
@@ -58,6 +61,7 @@
 ---
 
 ### ⚡ Featured Showcase Project: AeroClaw
+
 > **Enterprise Autonomous B2B Procurement & Inventory Reconciliation Engine**
 > *Built for the AMD Developer Hackathon: ACT II (Unicorn Track & Gemma Model Challenge)*
 
@@ -69,7 +73,7 @@
 
 ### 📊 Accurate Contribution & Developer Metrics
 
-To accurately count all your individual commits (including private repositories and non-master branches), we utilize precise multi-repo activity widgets:
+To accurately count all individual commits (including private repositories and non-master branches), these widgets use precise multi-repo activity data:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bernard-kimani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="175" />
@@ -85,12 +89,10 @@ To accurately count all your individual commits (including private repositories 
 ---
 
 ### 🎯 What I Build & Solicit Collaborations For
+
 * 🎨 High-performance React & Next.js enterprise dashboards with real-time WebSocket state management.
 * 📱 Production-ready cross-platform mobile apps using React Native and Flutter.
-* 🤖 Autonomous multi-agent pipelines, localized vector store memory loops, and custom Chrome Extension scrapers.
+* 🤖 Autonomous multi-agent pipelines, n8n/Apps Script automation workflows, and custom Chrome Extension scrapers.
 
 <br/>
 
-<div align="center">
-  <sub>Engineered for recruiters, technical leads, and open-source collaborators.</sub>
-</div>
