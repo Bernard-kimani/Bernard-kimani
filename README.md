@@ -71,19 +71,17 @@
 
 ---
 
-### 📊 Accurate Contribution & Developer Metrics
-
-To accurately count all individual commits (including private repositories and non-master branches), these widgets use precise multi-repo activity data:
+### 📊 Developer Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bernard-kimani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernard-kimani&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bernard-kimani&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernard-kimani&layout=compact&theme=tokyonight&hide=html,css" height="175" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bernard-kimani&theme=tokyonight&hide_border=true" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bernard-kimani&theme=tokyonight" width="90%" />
 </div>
 
 ---
@@ -95,4 +93,3 @@ To accurately count all individual commits (including private repositories and n
 * 🤖 Autonomous multi-agent pipelines, n8n/Apps Script automation workflows, and custom Chrome Extension scrapers.
 
 <br/>
-
